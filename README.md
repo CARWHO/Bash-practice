@@ -1,2 +1,2 @@
-# Bash-practice
-Bash-practice
+# Bash-Practice
+Bash-Practice
